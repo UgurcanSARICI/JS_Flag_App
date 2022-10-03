@@ -50,6 +50,8 @@ checkout-website(folder)
 
 - Javascript (Async-await), 
 
+- Javascript API
+
 - HTML Tags, Comments
 
 - CSS styling, CSS Grid, Positioning,etc.
