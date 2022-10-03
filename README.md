@@ -54,7 +54,6 @@ checkout-website(folder)
 
 - HTML Tags, Comments
 
-- CSS styling, CSS Grid, Positioning,etc.
 
 
 ## Notes
